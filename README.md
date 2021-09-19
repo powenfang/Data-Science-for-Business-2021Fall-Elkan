@@ -12,7 +12,7 @@ Teaching Fellow: Steven Fang (pwf227@nyu.edu)
 3. Click the button "Open in Colab" inside the notebook.
 4. Inside Colab, look near the top left corner and click "Copy to Drive."
 5. Inside Drive, change the name of the new copy to "[NetId]\_HW1.ipynb".
-6. Work through the new copy box by box, developing your solutions to the homework questions.
+6. Work through the new copy box by box, developing your solutions to the questions numbered 0 to 13; 14 is optional.
 7. When finished, click on the Colab "File" menu (*not* the "File" menu of your browser), select "Download", then "Download .ipynb."
 8. Upload your "[NetId]\_HW1.ipynb" file to Brightspace.
 
